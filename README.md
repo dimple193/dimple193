@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/dimple193/dimple193](https://github.com/dimple193/dimple193)
 
-- 📫 How to reach me **dimpalvaghela13@gmail.com**
+- 📫 How to reach me **dimpalvaghela193@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/dimpal-vaghela-8355bab8/](https://www.linkedin.com/in/dimpal-vaghela-8355bab8/)
 
