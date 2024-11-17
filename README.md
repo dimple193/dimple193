@@ -1,4 +1,4 @@
-![logo](https://github.com/dimpal193/dimpal193/blob/main/Github%20Banner.png)
+![logo](https://github.com/dimple193/dimple193/blob/main/Github%20Banner.jpeg)
 
 <h1 align="center">Hi 👋, I'm Dimpal Vaghela</h1>
 <h3 align="center">I am a results-driven Junior Data Analyst</h3>
