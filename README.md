@@ -1,4 +1,4 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Profileinfo.jpeg)
+![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%Profileinfo.jpeg)
 
 <h1 align="center">Hi 👋, I'm Dimpal Vaghela</h1>
 <h3 align="center">I am a results-driven Junior Data Analyst</h3>
